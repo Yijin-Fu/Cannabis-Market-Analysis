@@ -1,6 +1,6 @@
 # Cannabis Market Analysis within Ontario
 
-Cannabis legalization in Canada has been a progressive process. Initially, Canada legalized medicinal cannabis, and later, in recent years, it moved towards legalizing cannabis for recreational use as well. This gradual legalization reflects a shift in societal and governmental attitudes towards cannabis, recognizing its potential benefits and the importance of regulated, legal access.
+Cannabis legalization in Canada has been a progressive process. Initially, Canada legalized medicinal cannabis, and later, in recent years, it moved towards legalizing cannabis for recreational use as well. This gradual legalization reflects a shift in societal and governmental attitudes towards cannabis, recognizing its potential benefits and the importance of regulated legal access.
 
 ## Introduction
 
