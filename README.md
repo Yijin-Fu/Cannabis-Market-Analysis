@@ -1,7 +1,5 @@
 
-![Canopy_Growth_Corporation_logo svg](https://github.com/Yijin-Fu/Cannabis-Market-Analysis/assets/73370048/0eba30b6-ca26-46e0-ab01-5110769af937)
-
-<img width="554" alt="MS" src="https://github.com/Yijin-Fu/Cannabis-Market-Analysis/assets/73370048/e834b61b-9530-4116-a934-89565931909a">
+![Canopy_Growth_Corporation_logo svg](https://github.com/Yijin-Fu/Cannabis-Market-Analysis/assets/73370048/0eba30b6-ca26-46e0-ab01-5110769af937) <img width="554" alt="MS" src="https://github.com/Yijin-Fu/Cannabis-Market-Analysis/assets/73370048/e834b61b-9530-4116-a934-89565931909a">
 
 
 
